@@ -25,7 +25,7 @@
         <maven-failsafe-plugin.version>2.21.0</maven-failsafe-plugin.version>
         <!-- Configurable variables -->
         <threads>3</threads>
-        <browser>chrome</browser>
+        <browser>firefox</browser>
         <overwrite.binaries>false</overwrite.binaries>
         <headless>true</headless>
     </properties>
